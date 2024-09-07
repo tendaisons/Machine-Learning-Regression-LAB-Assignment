@@ -72,3 +72,14 @@ a dataset that relates the number of miles people commute to work and the
 frequency of public transportation usage. Apply a linear regression model after
 addressing missing data and assess its predictive performance. Discuss the
 strategies used for handling missing values.
+
+Test 1 (25)
+
+a. Explain the concept of supervised learning in machine learning. Provide an example of a
+supervised learning problem. [3]
+b. Implement a simple linear regression model using Python. Explain the steps involved in
+the training process. [7]
+c. Discuss the concept of overfitting in machine learning, and how can overfitting be mitigated.
+[5]
+d. Choose a specific industry or domain (e.g., healthcare, finance, or autonomous vehicles)
+and discuss how machine learning is being applied. [10]
